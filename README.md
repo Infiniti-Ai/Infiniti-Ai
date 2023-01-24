@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hii Welcome to Infinity - Ai 
 
+
+<p align="center"> 
+  <img src="https://thumbs.dreamstime.com/b/machine-learning-hand-robot-touching-binary-data-futuristic-artificial-intelligence-ai-deep-brain-representing-algorithm-154741982.jpg" width="700" title="AI/ML IMAGE">
+</p>
 <!--
 **Infiniti-Ai/Infiniti-Ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
